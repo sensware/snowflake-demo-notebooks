@@ -3,4 +3,3 @@ channels:
   - snowflake
 dependencies:
   - matplotlib=*
-  - tabulate=*
